@@ -35,7 +35,8 @@ This Java program allows teachers to enter students' grades and compute their av
       - The lowest score
 
 ## Sample output
-![Uploading codealpha task 1.png…]()
+
+![codealpha task 1](https://github.com/user-attachments/assets/7c4379ca-1b01-4b03-adea-8e92d07fbeee)
 
 ## Contact
 For any questions or feedback, please reach out to nnandhana96@gmail.com .
